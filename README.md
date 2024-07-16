@@ -72,7 +72,7 @@ sonaric identity-export -o node-name.identity
 
 If Termius, you entered SFTP - You selected your server, you dragged the xxxx.identy file on your server and copied it to the desired file on your computer - you downloaded it.
 
-![image] https://raw.githubusercontent.com/encoderrrr/AX/main/2.JPG?token=GHSAT0AAAAAACR7R24HUOJSUD5WXSPY7AGOZUV4QHA
+![image](https://raw.githubusercontent.com/encoderrrr/AX/main/3.JPG?token=GHSAT0AAAAAACR7R24G6R37AP4JHHPTHW24ZUV4THA)
 
 > For Backup (Pub ID - Priv Key - Key - Key PW while setting up on the site)
 
