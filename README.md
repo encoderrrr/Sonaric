@@ -60,7 +60,7 @@ ssh -L 127.0.0.1:44003:127.0.0.1:44003 -L 127.0.0.1:44004:127.0.0.1:44004 -L 127
 
 > To understand that the above command works: `curl http://localhost:44004`
 
-<img width="874" alt="Screenshot 2024-07-03 12 37 19" src="https://raw.githubusercontent.com/encoderrrr/AX/main/2.JPG?token=GHSAT0AAAAAACR7R24GW3HSZFZMEMGPDM6QZUV22YQ">
+![image](https://raw.githubusercontent.com/encoderrrr/AX/main/2.JPG?token=GHSAT0AAAAAACR7R24HUOJSUD5WXSPY7AGOZUV4QHA)
 
 ```console
 sonaric identity-export -o node-name.identity
@@ -72,7 +72,7 @@ sonaric identity-export -o node-name.identity
 
 If Termius, you entered SFTP - You selected your server, you dragged the xxxx.identy file on your server and copied it to the desired file on your computer - you downloaded it.
 
-![image](https://raw.githubusercontent.com/encoderrrr/AX/main/3.JPG?token=GHSAT0AAAAAACR7R24GPDVKBXVX3RPF4CVEZUV23NQ)
+![image] https://raw.githubusercontent.com/encoderrrr/AX/main/2.JPG?token=GHSAT0AAAAAACR7R24HUOJSUD5WXSPY7AGOZUV4QHA
 
 > For Backup (Pub ID - Priv Key - Key - Key PW while setting up on the site)
 
