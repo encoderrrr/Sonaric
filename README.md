@@ -40,7 +40,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/monk-io/sonaric-install/ma
 
 > If we get node information output with the `sonaric node-info` command, it's ok.
 
-https://ibb.co/brVz3Zx
+[https://ibb.co/brVz3Zx](https://raw.githubusercontent.com/encoderrrr/AX/main/1.JPG?token=GHSAT0AAAAAACR7R24HIBN5LYJKLXOWK5TAZUV4NPQ)
 
 
 #
