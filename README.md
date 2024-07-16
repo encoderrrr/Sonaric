@@ -40,7 +40,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/monk-io/sonaric-install/ma
 
 > If we get node information output with the `sonaric node-info` command, it's ok.
 
-![image](https://raw.githubusercontent.com/encoderrrr/AX/main/1.JPG?token=GHSAT0AAAAAACR7R24HIBN5LYJKLXOWK5TAZUV4NPQ)
+![1](https://github.com/user-attachments/assets/1b39381e-b74f-4931-8cdb-c65ce109f456)
+
 
 
 #
@@ -60,7 +61,8 @@ ssh -L 127.0.0.1:44003:127.0.0.1:44003 -L 127.0.0.1:44004:127.0.0.1:44004 -L 127
 
 > To understand that the above command works: `curl http://localhost:44004`
 
-![image](https://raw.githubusercontent.com/encoderrrr/AX/main/2.JPG?token=GHSAT0AAAAAACR7R24HUOJSUD5WXSPY7AGOZUV4QHA)
+![2](https://github.com/user-attachments/assets/81c89d88-d807-418d-9018-22b83e3c2e35)
+
 
 ```console
 sonaric identity-export -o node-name.identity
@@ -72,7 +74,8 @@ sonaric identity-export -o node-name.identity
 
 If Termius, you entered SFTP - You selected your server, you dragged the xxxx.identy file on your server and copied it to the desired file on your computer - you downloaded it.
 
-![image](https://raw.githubusercontent.com/encoderrrr/AX/main/3.JPG?token=GHSAT0AAAAAACR7R24G6R37AP4JHHPTHW24ZUV4THA)
+![3](https://github.com/user-attachments/assets/230fa6e3-edab-472a-9309-016cc2d8da57)
+
 
 > For Backup (Pub ID - Priv Key - Key - Key PW while setting up on the site)
 
